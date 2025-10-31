@@ -46,29 +46,16 @@ Asegúrate de tener instalado:
    npm run transposicion
    ```
 
----
 
 ## 🧠 Ejemplo de salida
 
 ### Cifrado César
-
-```
-=== CIFRADO CÉSAR ===
-Texto original:  UNIVERSIDAD CENTRAL DEL ECUADOR
-Texto cifrado :  XQLYHUVLGDG FHQWUDO GHO HFXDGRU
-Texto descifrado:  UNIVERSIDAD CENTRAL DEL ECUADOR
-```
-
-### Cifrado por Transposición
-
-```
-=== CIFRADO POR TRANSPOSICIÓN ===
-Texto original:  UNIVERSIDAD CENTRAL DEL ECUADOR
-Texto cifrado :  USCTEEDNNIILCRDLAUEVRDTAEIOAU
-Texto descifrado:  UNIVERSIDADCENTRALDELECUADOR
-```
+![Cifrado César](./assets/screenshots/cesar.png)
 
 ---
+
+### Cifrado por Transposición
+![Cifrado por Transposición](./assets/screenshots/trasposicion.png)
 
 ## 🧮 Estructura del Proyecto
 
@@ -80,8 +67,6 @@ Texto descifrado:  UNIVERSIDADCENTRALDELECUADOR
 ├── package.json           # Configuración para npm run
 └── README.md              # Documentación del proyecto
 ```
-
----
 
 ## 🧾 Licencia
 
