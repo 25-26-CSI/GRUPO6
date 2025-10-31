@@ -1,0 +1,14 @@
+{
+  "name": "TAREA01-01-06",
+  "version": "1.0.0",
+  "description": "Ejemplos de cifrado César y Transposición en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "cesar": "node cesar.js",
+    "transposicion": "node transposicion.js"
+  },
+  "keywords": [],
+  "author": "Grupo 6",
+  "license": "MIT",
+  "packageManager": "pnpm@10.17.1"
+}
