@@ -50,7 +50,7 @@ Asegúrate de tener instalado:
 ## 🧠 Ejemplo de salida
 
 ### Cifrado César
-![Cifrado César](./assets/screenshots/cesar.png)
+![Cifrado César](./assets/screenshots/Cesar.png)
 
 ---
 
@@ -96,4 +96,5 @@ Toda contribución será revisada y reconocida.
 
 
 **Desarrollado con 💻 y pasión por la criptografía clásica.**
+
 
