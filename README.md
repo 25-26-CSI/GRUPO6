@@ -30,7 +30,7 @@ El trabajo en equipo es la clave de nuestro aprendizaje colectivo. 💚
 ### 📜 Licencia
 
 Este proyecto está bajo la licencia **Apache License 2.0**.
-Consulta los términos en el archivo [`LICENSE`](https://www.apache.org/licenses/LICENSE-2.0).
+Consulta los términos en el archivo [`LICENSE`](./LICENSE).
 
 📅 **Última actualización:** 1 de noviembre de 2025
 👨‍💻 **Repositorio principal:** [GRUPO6](https://github.com/25-26-CSI/GRUPO6)
