@@ -34,7 +34,7 @@ Asegúrate de tener instalado:
 
    ```bash
    git clone https://github.com/25-26-CSI/GRUPO6.git
-   cd Tarea02-01-06
+   cd Tarea04-U1-06
    ```
 
 2. Abre Jupyter Notebook:
@@ -51,7 +51,7 @@ Asegúrate de tener instalado:
 ## 🧮 Estructura del Proyecto
 
 ```
-/Tarea02-01-06
+/Tarea04-U1-06
 │
 ├── AES.ipynb                 # Notebook del Cifrado AES
 ├── RSA.ipynb                 # Notebook del Cifrado RSA
@@ -88,3 +88,4 @@ Haz un **fork**, crea una nueva rama con tus cambios y envía un **pull request*
 Toda contribución será revisada y reconocida.
 
 **Desarrollado con 💻 y pasión por la criptografía moderna.**
+
