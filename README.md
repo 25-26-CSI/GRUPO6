@@ -19,6 +19,7 @@ Nuestro objetivo es fomentar el aprendizaje colaborativo y la aplicación práct
 | Código / Carpeta  | Descripción breve                                                                                                  | Enlace                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | **TAREA01-01-06** | Técnicas de encriptación por sustitución y transposición. Implementaciones y explicaciones de algoritmos clásicos. | [Ver repositorio](https://github.com/25-26-CSI/GRUPO6/tree/main/TAREA01-01-06) |
+| **TAREA04-U1-06** | Implementación práctica de los algoritmos **AES** y **RSA**, representando los métodos de criptografía moderna.    | [Ver repositorio](https://github.com/25-26-CSI/GRUPO6/tree/main/TAREA04-U1-06) |
 
 > 📘 *Este índice se actualizará conforme se añadan nuevos directorios o proyectos del grupo.*
 
@@ -32,5 +33,5 @@ El trabajo en equipo es la clave de nuestro aprendizaje colectivo. 💚
 Este proyecto está bajo la licencia **Apache License 2.0**.
 Consulta los términos en el archivo [`LICENSE`](./LICENSE).
 
-📅 **Última actualización:** 1 de noviembre de 2025
+📅 **Última actualización:** 9 de noviembre de 2025
 👨‍💻 **Repositorio principal:** [GRUPO6](https://github.com/25-26-CSI/GRUPO6)
