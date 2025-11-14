@@ -58,8 +58,9 @@ Asegúrate de tener instalado:
 │
 ├── AES.ipynb                 # Notebook del Cifrado AES
 ├── RSA.ipynb                 # Notebook del Cifrado RSA
-├── Funcion_Hash.ipynb            # Funciones hash criptográficas
-├── ejemplos_txt/                 # Archivos de ejemplo para pruebas
+├── Funcion_Hash.ipynb        # Funciones hash criptográficas
+├── ejemplos_txt/             # Archivos de ejemplo para pruebas
+├── Resultados/               # Archivos de resultados obtenidos
 ├── assets/screenshots/       # Carpeta de imágenes de resultados
 └── README.md                 # Documentación general del proyecto
 ```
@@ -93,5 +94,6 @@ Haz un **fork**, crea una nueva rama con tus cambios y envía un **pull request*
 Toda contribución será revisada y reconocida.
 
 **Desarrollado con 💻 y pasión por la criptografía moderna.**
+
 
 
