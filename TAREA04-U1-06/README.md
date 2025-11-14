@@ -1,20 +1,22 @@
 # 🔐 Proyecto de Cifrados Modernos en Python
 
-Implementación práctica de los algoritmos de **Cifrado AES (Advanced Encryption Standard)** y **Cifrado RSA (Rivest–Shamir–Adleman)**.
-El objetivo de este proyecto es comprender cómo funcionan los principales métodos de **criptografía moderna**, tanto **simétrica** como **asimétrica**, mediante ejemplos prácticos desarrollados en Jupyter Notebook.
+Implementación práctica de los algoritmos de **Cifrado AES (Advanced Encryption Standard)**, **Cifrado RSA (Rivest–Shamir–Adleman)** y funciones **Hash criptográficas**.
+Este proyecto tiene como objetivo comprender los principales métodos de **criptografía moderna**, tanto **simétrica**, **asimétrica** como **hashing**, mediante ejemplos prácticos desarrollados en Jupyter Notebook.
 
 ## 📘 Descripción del Proyecto
 
-Este repositorio contiene dos notebooks ejecutables en **Python**, que explican y demuestran el proceso de cifrado y descifrado con ambos algoritmos:
+Este repositorio contiene tres notebooks ejecutables en **Python**, que explican y demuestran el proceso de cifrado, descifrado y generación de hash:
 
-* `AES.ipynb` → Implementa el **Cifrado Simétrico AES**, donde la misma clave se usa para cifrar y descifrar el mensaje.
-* `RSA.ipynb` → Implementa el **Cifrado Asimétrico RSA**, que utiliza un **par de claves pública y privada** para garantizar la confidencialidad y autenticidad de los datos.
+* `AES.ipynb` → Implementa el **Cifrado Simétrico AES**, donde la misma clave se usa para cifrar y descifrar.
+* `RSA.ipynb` → Implementa el **Cifrado Asimétrico RSA**, basado en clave pública y privada.
+* `Funcion_Hash.ipynb` → Implementa funciones **hash criptográficas** (SHA-256, SHA-512, etc.) y muestra cómo generar, comparar y validar hashes.
 
 Cada notebook incluye:
 
-* Explicaciones teóricas sobre el funcionamiento del algoritmo.
-* Ejemplos prácticos paso a paso.
-* Pruebas de cifrado y descifrado sobre texto de ejemplo.
+* Conceptos teóricos fundamentales.
+* Ejemplos explicados paso a paso.
+* Pruebas con **archivos .txt externos** (opcional).
+* Visualización de resultados.
 
 ## ⚙️ Requisitos Previos
 
@@ -47,6 +49,7 @@ Asegúrate de tener instalado:
 
    * Abre **AES.ipynb** para ver el funcionamiento del **cifrado simétrico**.
    * Abre **RSA.ipynb** para explorar el **cifrado asimétrico**.
+   * `Funcion_Hash.ipynb` → Hash criptográfico (SHA-256, SHA-512, etc.)
 
 ## 🧮 Estructura del Proyecto
 
@@ -55,6 +58,8 @@ Asegúrate de tener instalado:
 │
 ├── AES.ipynb                 # Notebook del Cifrado AES
 ├── RSA.ipynb                 # Notebook del Cifrado RSA
+├── Funcion_Hash.ipynb            # Funciones hash criptográficas
+├── ejemplos_txt/                 # Archivos de ejemplo para pruebas
 ├── assets/screenshots/       # Carpeta de imágenes de resultados
 └── README.md                 # Documentación general del proyecto
 ```
@@ -88,4 +93,5 @@ Haz un **fork**, crea una nueva rama con tus cambios y envía un **pull request*
 Toda contribución será revisada y reconocida.
 
 **Desarrollado con 💻 y pasión por la criptografía moderna.**
+
 
