@@ -34,5 +34,5 @@ El trabajo en equipo es la clave de nuestro aprendizaje colectivo. 💚
 Este proyecto está bajo la licencia **Apache License 2.0**.
 Consulta los términos en el archivo [`LICENSE`](./LICENSE).
 
-📅 **Última actualización:** 9 de noviembre de 2025
+📅 **Última actualización:** 30 de noviembre de 2025
 👨‍💻 **Repositorio principal:** [GRUPO6](https://github.com/25-26-CSI/GRUPO6)
