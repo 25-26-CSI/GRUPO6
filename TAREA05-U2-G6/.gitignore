@@ -1,0 +1,61 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.hidden
+*.stackdump
+
+# Build Artifacts
+build/
+dist/
+target/
+*.o
+*.a
+*.so
+*.lo
+*.la
+*.dll
+*.exe
+*.out
+*.app
+*.lib
+*.bin
+*.obj
+*.class
+
+# Dependency Directories
+node_modules/
+vendor/
+Pods/
+jspm_packages/
+bower_components/
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+.env
+
+# Log files
+*.log
+log/
+tmp/
+
+# Temporary files and backups
+*~
+*.bak
+*.swp
+*.swo
+*.tmp
+*.sublime-project
+*.sublime-workspace
+
+# Configuration files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
